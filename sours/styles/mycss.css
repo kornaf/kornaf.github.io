@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Ponomar&display=swap);
+
+body{
+    font-family: Ponomar, serif;
+    background-color: #000000;}
+
+.nav-link{
+    color: rgb(169, 187, 187);
+}
+.navbar-nav .nav-link.active{
+    color: rgb(234, 243, 243);
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+
+.navbar-toggler{
+    background-color: rgb(195, 186, 173);
+}
+.sit{
+    color: rgb(255, 255, 255);
+    
+}
+
+.card{
+    background-color: rgb(118, 118, 116);
+}
+.kt{
+    background-color: rgb(49, 49, 45);
+}
+
+.uo{
+    color: rgb(179, 179, 179);
+    margin: auto auto;
+}
+.df{
+    color: rgb(129, 128, 128);
+    margin: auto auto;
+}
+footer {
+    background-color:#343a40 ;
+}
+
+.bb{
+    text-align: center;
+    padding: 150px;
+}
